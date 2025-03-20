@@ -1,0 +1,4 @@
+package lifeform
+
+class LifeForm {
+}

@@ -1,0 +1,4 @@
+package field
+
+class Location {
+}

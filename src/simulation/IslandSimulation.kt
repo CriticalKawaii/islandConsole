@@ -1,0 +1,4 @@
+package simulation
+
+class IslandSimulation {
+}
