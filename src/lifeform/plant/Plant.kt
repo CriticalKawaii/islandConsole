@@ -1,4 +1,5 @@
 package lifeform.plant
 
-class Plant {
-}
+import lifeform.LifeForm
+
+class Plant : LifeForm(1.0, 200, "Plant")

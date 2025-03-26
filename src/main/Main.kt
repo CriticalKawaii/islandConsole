@@ -1,4 +1,8 @@
 package main
 
-class Main {
+import simulation.startMenu.Menu
+
+fun main() {
+    val menu = Menu()
+    menu.startSimulation()
 }
